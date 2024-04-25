@@ -13,7 +13,7 @@ This Gutenberg block allows you to display the latest posts on your WordPress we
 To use this Gutenberg block on your WordPress website:
 
 1. **Installation:**
-   - Download the latest release of this plugin from the [GitHub repository](https://github.com/yourusername/latest-post-gutenberg-block).
+   - Download the latest release of this plugin from the [GitHub repository](https://github.com/sarfaraz-kazi/gutenberg-custom-block.
    - Upload the plugin files to the `/wp-content/plugins/latest-post-gutenberg-block` directory of your WordPress installation.
 
 2. **Activation:**
